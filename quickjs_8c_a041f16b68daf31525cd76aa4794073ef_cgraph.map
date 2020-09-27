@@ -1,0 +1,10 @@
+<map id="js_resolve_module" name="js_resolve_module">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5b9215d5347fb8696212caf3f8ebfad0" title="js_host_resolve_imported\l_module_atom" alt="" coords="184,49,355,90"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a4b66ebf3abee5d29490343fbe360ec5a" title="JS_AtomToCString" alt="" coords="421,56,555,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ae0bc4f65da64810facb2cb9e476eda2e" title="JS_FreeCString" alt="" coords="431,5,545,32"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a90dd988b99a5bc7b2a4aaffd2de405a9" title="js_host_resolve_imported\l_module" alt="" coords="403,107,573,149"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a260bfa297ff6cb5bd18e229afaa54663" title="JS_AtomToString" alt="" coords="621,56,747,83"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="632,5,736,32"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="627,107,741,133"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#af931f06630ab719b5f82a16eb27effd1" title="JS_ToCString" alt="" coords="632,157,736,184"/>
+</map>

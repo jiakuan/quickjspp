@@ -1,0 +1,11 @@
+<map id="lre_get_groupnames" name="lre_get_groupnames">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a9eb2d90f27f684820f9de13189502b7c" title="js_regexp_exec" alt="" coords="192,208,305,235"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab737681b4f1a426c560df37c1304c9d6" title="JS_RegExpExec" alt="" coords="368,157,491,184"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a55de0909f8b4c06625f67b2fdb670279" title="js_is_standard_regexp" alt="" coords="353,233,505,260"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#acda1b1a97bfde7e280456c5969b7a2a3" title="js_regexp_test" alt="" coords="598,5,705,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a41fc4304b39616e7be3500fe6ec881c2" title="js_regexp_Symbol_match" alt="" coords="565,56,737,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aeb6df5fcffc6fecfac1e9b0d709e99c5" title="js_regexp_string_iterator_next" alt="" coords="553,107,749,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a6a77bcdb9f7f18c13c108c99a198708b" title="js_regexp_Symbol_replace" alt="" coords="562,259,741,285"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#af315d0f35b4b11e5957b904c98bf1c0d" title="js_regexp_Symbol_search" alt="" coords="564,157,739,184"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a79872a6d9d139e36d5d1894d16132024" title="js_regexp_Symbol_split" alt="" coords="571,208,731,235"/>
+</map>

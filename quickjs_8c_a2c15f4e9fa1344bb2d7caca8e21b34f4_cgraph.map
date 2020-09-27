@@ -1,0 +1,16 @@
+<map id="js_import_meta" name="js_import_meta">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a0a31a11db1d2054a132f4879d1f3c8cc" title="js_find_loaded_module" alt="" coords="182,81,337,108"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="208,208,311,235"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a44504e6de8f6e13870e695d360d9cd3e" title="JS_GetImportMeta" alt="" coords="193,132,325,159"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a3d9d43172bb33e53a4843dd3a770e889" title="JS_GetScriptOrModuleName" alt="" coords="164,309,355,336"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a7f6796ee7a195631366f57c713a33f65" title="__JS_AtomIsConst" alt="" coords="629,284,765,311"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a0bbd9e3ecd55e3ea6c9d44bfda382095" title="__JS_FreeAtom" alt="" coords="424,208,540,235"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a58c8965dad50b15b75918a09f3d9dc7c" title="JS_FreeAtomStruct" alt="" coords="628,208,765,235"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="425,56,539,83"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a884d294acbf5be675ffc760e38bd0521" title="JS_NewObjectProto" alt="" coords="411,5,553,32"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="425,107,539,133"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="431,157,533,184"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="609,5,784,32"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a76e95dd1ab1d7cb4b9407d2ad41ee119" title="js_class_has_bytecode" alt="" coords="403,360,561,387"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="432,309,532,336"/>
+</map>
